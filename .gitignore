@@ -1,0 +1,11 @@
+# Binaries
+gamecomp
+
+# Object files
+*.o
+src/*.o
+
+# Temporary and editor files
+*.swp
+*~
+.DS_Store
